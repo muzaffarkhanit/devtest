@@ -4,8 +4,8 @@ var whoseTurn=0;
 var scores=[0,0];
 var winValues=[7,56,73,84,146,273,292,448];
 var gameOver=false;
-players[0]="muzaffar";
-players[1]="khan";
+players[0]="Player-1";
+players[1]="Player-2";
 
 function winCheck()
 {
