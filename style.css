@@ -5,7 +5,7 @@ font-family: 'Cookie', cursive;
 font-family: 'Marcellus SC', serif;
 user-select:none;
 }
-html{background-image:url("2.jpg");}
+html{background-image:url("2.jpg");background-size:50%;}
 h2
 {
 font-size:65px;
